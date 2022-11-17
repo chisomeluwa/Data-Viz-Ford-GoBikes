@@ -1,7 +1,6 @@
-# (Dataset Exploration Title)
+# Ford GoBike Analysis
 ## by Eluwa Chisom
 
-> The 
 
 
 ## Dataset
